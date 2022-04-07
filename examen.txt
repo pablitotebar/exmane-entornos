@@ -5,7 +5,11 @@ int toal =teclado.nextINT();
 int i;
 for (i = 0; i > total ;i++)
 {
+<<<<<<< HEAD
 if (i%3!=0){
+=======
+if (i%1!=0){
+>>>>>>> d2126322de9387e519a33498a85cce9cb6b51470
 	System.out.println("El numero par es:"+i);
 		}
 	}
